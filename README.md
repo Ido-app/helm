@@ -41,7 +41,7 @@ Jobs:
 - `migrate` job to migrate existing site.
 - `custom` job to run custom additional commands and configuration.
 
-PVC:
+PVC: test
 
 - `erpnext` persistent volume claim is used to allocate volume for sites and config deployed with this release
 - `erpnext-logs` persistent volume claim is used to allocate volume for logs

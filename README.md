@@ -7,7 +7,7 @@ Helm Chart to deploy a *frappe-bench*-like environment on Kubernetes. It adds fo
 ConfigMaps:
 
 - `nginx-config` is used to override default.conf for nginx reverse proxy and static assets container.
-
+f
 Deployments:
 
 - `gunicorn` deployment contains frappe/erpnext gunicorn.
